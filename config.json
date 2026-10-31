@@ -1,0 +1,99 @@
+{
+  "code": "KOSIN",
+  "title": "SMASH KOSIN",
+  "school": "고신대",
+  "fullName": "고신대학교",
+  "campusName": "고신대학교 영도캠퍼스",
+  "tagline": "고신대를 부셔 (시험기간 스트레스 해소)",
+  "description": "고신대학교 영도캠퍼스를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 고신대학교 영도캠퍼스 3D 화면과 SMASH KOSIN 제목",
+  "url": "https://hong-iron.github.io/SMASH-KOSIN/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 757383608
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        35.0806881,
+        129.0621353
+      ],
+      "n": "행복기숙사",
+      "why": "항공사진에 없음 — 행복기숙사로 등록된 윤곽이 캠퍼스 경계 밖 숲 비탈에 그려져 있는데, 항공사진에는 그 자리에 나무와 옆 건물 그림자만 있고 건물이 없습니다."
+    },
+    {
+      "at": [
+        35.0780433,
+        129.0644034
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 도로 땅(산 149-57 도) 위에 이름 없이 등록된 윤곽으로, 사진에서는 길가 포장면일 뿐 건물이 서 있지 않습니다."
+    },
+    {
+      "at": [
+        35.0792042,
+        129.0628271
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 도랑 땅(516-42 구)에 이름 없이 등록된 윤곽인데, 사진에는 그 자리에 나무와 풀밭만 있습니다."
+    },
+    {
+      "at": [
+        35.0778132,
+        129.0638715
+      ],
+      "n": "제4호동 수위실",
+      "why": "항공사진에 없음 — 수위실로 등록된 윤곽 자리에 사진상 나무숲만 있고, 건물은 바로 옆 강의동과 강당 쪽에만 있습니다."
+    }
+  ],
+  "look": {
+    "제2호동 음악동": {
+      "style": "tan",
+      "wall": "#c3b6a8",
+      "glass": "#4a5654",
+      "frame": "#e3dacb"
+    },
+    "제1호동 강의,교수동": {
+      "style": "ribbon",
+      "wall": "#e6e7e3",
+      "glass": "#59605e",
+      "frame": "#b2b6b1",
+      "roof": "#5f8a6b",
+      "hip": true
+    },
+    "제5호동 강의,실험동": {
+      "style": "brick",
+      "wall": "#b4685a",
+      "glass": "#3e4648",
+      "frame": "#ece2da"
+    },
+    "제11동 제2생활관": {
+      "style": "dorm",
+      "wall": "#dcdee3",
+      "glass": "#2f4f74",
+      "frame": "#8e9c72"
+    },
+    "제6호동 도서관": {
+      "style": "ribbon",
+      "wall": "#e9ebe8",
+      "glass": "#477f86",
+      "frame": "#b3b7b3"
+    },
+    "제8호동 학생관": {
+      "style": "stone",
+      "wall": "#ebe9e3",
+      "glass": "#4b5355",
+      "frame": "#c9c6bf"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
