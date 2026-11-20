@@ -1,0 +1,34 @@
+{
+ "region": "부산 영도구",
+ "nameEn": "Kosin University Yeongdo Campus",
+ "added": "2026-11-01T02:27",
+ "rank": 219,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "KMOU",
+   "campus": "국립한국해양대학교",
+   "km": 2.4
+  },
+  {
+   "code": "PKNU-YONGDANG",
+   "campus": "국립부경대학교 용당캠퍼스",
+   "km": 4.8
+  },
+  {
+   "code": "DONGA-BUMIN",
+   "campus": "동아대학교 부민캠퍼스",
+   "km": 4.9
+  },
+  {
+   "code": "TONGMYONG",
+   "campus": "동명대학교",
+   "km": 5.9
+  },
+  {
+   "code": "DONGA-GUDEOK",
+   "campus": "동아대학교 구덕캠퍼스",
+   "km": 6.1
+  }
+ ]
+}
